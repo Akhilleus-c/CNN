@@ -9,3 +9,4 @@ Bunun ilk 4 chapterini izleyin 1, 3 ve 4'teki matematiği anlarsınız. Ancak 2.
 
 
 Başka bir şey izlemenize gerek yok. :)
+(son.)
