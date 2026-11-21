@@ -4,9 +4,10 @@ Arkadaşlar bu projede amacımız Neural Network'ü daha iyi anlayıp işimizi a
 
 Hepinizin genel kod mantığını bildiğini varsayıyorum. Mesela a = 5 gibi şeyleri biliyor olabilirsiniz. bu projede genel olarak matrislerle çalışmamıza olanak sağlayan numpy kullandık. Ancak mantığı çok kolay olduğu için onun için video izlemenize gerek yok. Atacağım videoları izleyerek ML ve NN hakkında bilgi sahibi olursanız yeterli olacak.
 
-3Blue1Brown Neural Network playlisti: https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+3Blue1Brown Neural Network playlisti: https://www.youtube.com/watch?v=aircAruvnKk\&list=PLZHQObOWTQDNU6R1\_67000Dx\_ZCJB-3pi
 Bunun ilk 4 chapterini izleyin 1, 3 ve 4'teki matematiği anlarsınız. Ancak 2. chapterda gradyan var onu ben anlatırım. Siz oradaki genel mantığı kavrayın.
 
 
-Başka bir şey izlemenize gerek yok. :)
+
+Başka bir şey izlemenize gerek yok. :) Hello!
 
